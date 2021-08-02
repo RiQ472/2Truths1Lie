@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: lightgreen
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color:red;
+}
+
+#main-contenty{
+    border: solid thick black;
+    border-radius: 15px;
+    background-color: lightgrey;
+}
+
+#truth{
+    background-color: lightgrey;
+}
+
+#half{
+    background-color: lightgrey;
+}
+
+#liv{
+    background-color: lightgrey;
+}
